@@ -1,4 +1,6 @@
 # Exno:1
+### NAME: DEVANANDAN.K
+### REG NO: 212221040036
 Data Cleaning Process
 
 # AIM
